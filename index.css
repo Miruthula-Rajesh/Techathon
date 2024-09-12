@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+.App {
+  text-align: center;
+}
+
+button {
+  margin: 10px;
+}
+
+input, select {
+  margin: 10px;
+}
+
+.chatbox {
+  height: 200px;
+  width: 300px;
+  border: 1px solid #ccc;
+  overflow-y: scroll;
+  margin: 10px;
+}
+
+.user {
+  text-align: right;
+}
+
+.bot {
+  text-align: left;
+}
